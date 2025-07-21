@@ -107,6 +107,3 @@ function toggleResumen(boton) {
     icono.classList.add("rotado");
   }
 }
-
-
-
